@@ -21,27 +21,31 @@ Here are some ideas to get you started:
 <h3 align="center">💻 Aspiring Full Stack Developer | Loves Front & Backend | Tech Enthusiast</h3>
 
 <p align="center">
-  I'm a BSIT student at <strong>Central Luzon State University</strong> and an aspiring full stack developer. I enjoy crafting both intuitive front-end interfaces and robust back-end systems. My passion lies in writing clean code, component-based development, and solving real-world problems through thoughtful design.
+  I'm a BSIT student at <strong>Central Luzon State University</strong> and an aspiring full-stack developer. I enjoy crafting user-friendly front-end interfaces and building strong back-end systems. I take pride in writing clean code, using component-based development, and solving real-world problems through thoughtful design.
 </p>
 
-<h4 align="left">Outside of coding, I enjoy:</h4>
-<ul align="left">
-  <li>🎧 <strong>Listening to music</strong></li>
-  <li>🥁 <strong>Playing drums</strong></li>
-  <li>🎮 <strong>Online gaming</strong></li>
-  <li>📱 <strong>Exploring tech and gadgets</strong></li>
-  <li>🌱 <strong>Enjoying nature</strong></li>
-  <li>🎬 <strong>Watching K-dramas and sci-fi</strong></li>
-</ul>
+<h4 align="center">Outside of coding, I enjoy:</h4>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px;">
+    <p>🎧 <strong>Listening to music</strong></p>
+    <p>🥁 <strong>Playing drums</strong></p>
+    <p>🎮 <strong>Online gaming</strong></p>
+    <p>📱 <strong>Exploring tech and gadgets</strong></p>
+    <p>🌱 <strong>Enjoying nature</strong></p>
+    <p>🎬 <strong>Watching K-dramas and sci-fi</strong></p>
+  </div>
 
-<h3 align="left">🎓 Education</h3>
-<p align="left">
-  - 🏫 <strong>Central Luzon State University</strong> (2022 - Present)  <br>
-    📘 BS in Information Technology – Junior  <br>
-  - 🏫 <strong>Munoz National High School</strong> (2016 - 2022)  <br>
-    📕 STEM Strand – Senior High  <br>
-  - 🏫 <strong>Bantug Elementary School</strong> (2010 - 2016)  <br>
-</p>
+  <div style="flex: 1; padding: 10px;">
+    <h3>🎓 Education</h3>
+    <p>
+      🏫 <strong>Central Luzon State University</strong> (2022 - Present)  <br>
+      📘 BS in Information Technology – Junior  <br>
+      🏫 <strong>Munoz National High School</strong> (2016 - 2022)  <br>
+      📕 STEM Strand – Senior High  <br>
+      🏫 <strong>Bantug Elementary School</strong> (2010 - 2016)  <br>
+    </p>
+  </div>
+</div>
 
 <p align="center">
   <i>"If I have something to do today, I will do it now. To do something else tomorrow."</i>
