@@ -24,28 +24,25 @@ Here are some ideas to get you started:
   I'm a BSIT student at <strong>Central Luzon State University</strong> and an aspiring full-stack developer. I enjoy crafting user-friendly front-end interfaces and building strong back-end systems. I take pride in writing clean code, using component-based development, and solving real-world problems through thoughtful design.
 </p>
 
-<h4 align="center">Outside of coding, I enjoy:</h4>
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 10px;">
-    <p>🎧 <strong>Listening to music</strong></p>
-    <p>🥁 <strong>Playing drums</strong></p>
-    <p>🎮 <strong>Online gaming</strong></p>
-    <p>📱 <strong>Exploring tech and gadgets</strong></p>
-    <p>🌱 <strong>Enjoying nature</strong></p>
-    <p>🎬 <strong>Watching K-dramas and sci-fi</strong></p>
-  </div>
+<h4 align="left">Outside of coding, I enjoy:</h4>
+<p align="left">
+  🎧 <strong>Listening to music</strong><br>
+  🥁 <strong>Playing drums</strong><br>
+  🎮 <strong>Online gaming</strong><br>
+  📱 <strong>Exploring tech and gadgets</strong><br>
+  🌱 <strong>Enjoying nature</strong><br>
+  🎬 <strong>Watching K-dramas and sci-fi</strong><br>
+</p>
 
-  <div style="flex: 1; padding: 10px;">
-    <h3>🎓 Education</h3>
-    <p>
-      🏫 <strong>Central Luzon State University</strong> (2022 - Present)  <br>
-      📘 BS in Information Technology – Junior  <br>
-      🏫 <strong>Munoz National High School</strong> (2016 - 2022)  <br>
-      📕 STEM Strand – Senior High  <br>
-      🏫 <strong>Bantug Elementary School</strong> (2010 - 2016)  <br>
-    </p>
-  </div>
-</div>
+<h3 align="left">🎓 Education</h3>
+<p align="left">
+  🏫 <strong>Central Luzon State University</strong> (2022 - Present)  <br>
+  📘 BS in Information Technology – Junior  <br>
+  🏫 <strong>Munoz National High School</strong> (2016 - 2022)  <br>
+  📕 STEM Strand – Senior High  <br>
+  🏫 <strong>Bantug Elementary School</strong> (2010 - 2016)  <br>
+</p>
+
 
 <p align="center">
   <i>"If I have something to do today, I will do it now. To do something else tomorrow."</i>
