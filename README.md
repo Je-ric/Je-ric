@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   I'm a BSIT student at <strong>Central Luzon State University</strong> and an aspiring full stack developer. I enjoy crafting both intuitive front-end interfaces and robust back-end systems. My passion lies in writing clean code, component-based development, and solving real-world problems through thoughtful design.
 </p>
 
-<h4 align="center">Outside of coding, I enjoy:</h4>
-<ul align="center">
+<h4 align="left">Outside of coding, I enjoy:</h4>
+<ul align="left">
   <li>🎧 <strong>Listening to music</strong></li>
   <li>🥁 <strong>Playing drums</strong></li>
   <li>🎮 <strong>Online gaming</strong></li>
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
   <li>🎬 <strong>Watching K-dramas and sci-fi</strong></li>
 </ul>
 
-<h3 align="center">🎓 Education</h3>
-<p align="center">
+<h3 align="left">🎓 Education</h3>
+<p align="left">
   - 🏫 <strong>Central Luzon State University</strong> (2022 - Present)  <br>
     📘 BS in Information Technology – Junior  <br>
   - 🏫 <strong>Munoz National High School</strong> (2016 - 2022)  <br>
