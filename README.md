@@ -28,32 +28,8 @@ Here are some ideas to get you started:
 
 
 <br>
+<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif"  />
 
-# 📫 Get in Touch
-Feel free to connect with me on any of the following platforms:
-<p align="center" style="text-decoration: none; margin: 4px; line-height: 0;">
-  <a href="mailto:delacruz.jeric.j@gmail.com" style="text-decoration: none; margin: 4px; vertical-align: middle;">
-    <img src="https://img.shields.io/badge/Email-000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://facebook.com/jeric.delacruz.18294" style="text-decoration: none; margin: 4px; vertical-align: middle;">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/hiro.deecee" style="text-decoration: none; margin: 4px; vertical-align: middle;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram" alt="Instagram" />
-  </a>
-  <a href="https://youtube.com/@Je-richiro" style="text-decoration: none; margin: 4px; vertical-align: middle;">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube" alt="YouTube" />
-  </a>
-  <a href="https://codepen.io/Je-richiro" style="text-decoration: none; margin: 4px; vertical-align: middle;">
-    <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen" alt="Codepen" />
-  </a>
-</p>
-
-<br>
-
-# 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -61,6 +37,35 @@ Feel free to connect with me on any of the following platforms:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+###
+
+<div align="left">
+  <a href="https://facebook.com/jeric.delacruz.18294" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/hiro.deecee" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:delacruz.jeric.j@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://codepen.io/Je-richiro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+  <a href="t.me/H1ROO" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://youtube.com/@Je-richiro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://discordapp.com/users/848111406598455317" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div> 
+
+<br>
+
+# 💻 Tech Stack
 
 ### 🧰 Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -95,26 +100,18 @@ Feel free to connect with me on any of the following platforms:
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Je-ric&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Je-ric&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Je-ric&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Je-ric&theme=merko" height="150" alt="activity-graph graph"  />
+</div>
 
-# GitHub Stats 📊 :
-![](https://github-readme-stats.vercel.app/api?username=Je-ric&theme=outrun&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Je-ric&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Je-ric/Je-ric/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/Je-ric/Je-ric/output/snake.svg" alt="Snake animation" />
 
 
-
-# GitHub Streaks🔥:
-![](https://nirzak-streak-stats.vercel.app/?user=Je-ric&theme=outrun&hide_border=false)<br/>
-
-<br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Je-ric&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
-<!-- 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Je-ric&limit=5&theme=dark&combine_all_yearly_contributions=true)  -->
-
----
-[![](https://visitcount.itsvg.in/api?id=Je-ric&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
