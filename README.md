@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   <i>"If I have something to do today, I will do it now. To do something else tomorrow."</i>
 </p>
 
-
+<p align="center">
+  I'm a BSIT student at <strong>Central Luzon State University</strong> and an aspiring full-stack developer. 
+</p>
 <br>
 <br>
 
@@ -33,9 +35,7 @@ Here are some ideas to get you started:
 <img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHUwbmdxcjJqaG5md2g0aHN6d2tkY20xeDFpMHN0eTllYWIxajIzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 -->
 
-<p align="center">
-  I'm a BSIT student at <strong>Central Luzon State University</strong> and an aspiring full-stack developer. 
-</p>
+
 
 ###
 <div align="left">
