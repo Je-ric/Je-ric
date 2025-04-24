@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Header](./github-header-image.png)
 # 💫 About Me:
 <h1 align="center">Hi, I'm Jeric 👋 <br> (Also known as Hiro in games)</h1>
 
@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-
+<img align="right" height="270" src="./daftpunktocat-thomas.gif"/> 
+<!--
 <img align="right" height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZjbm1lc3Fzc2V0M244M2N3YXUxdzJoM2hqZW5pMXo3Nnlxd3hjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  /> 
 
 <!--
