@@ -24,14 +24,12 @@ Here are some ideas to get you started:
   I'm a BSIT student at <strong>Central Luzon State University</strong> and an aspiring full-stack developer. 
 </p>
 <br>
-<br>
+
+<hr style="border: none; height: 2px; background-color: #1a2235;" />
 
 <img align="right" height="270" src="./daftpunktocat-thomas.gif"/> 
 <!--
-<img align="right" height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZjbm1lc3Fzc2V0M244M2N3YXUxdzJoM2hqZW5pMXo3Nnlxd3hjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  /> 
-
-<!--
-<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHUwbmdxcjJqaG5md2g0aHN6d2tkY20xeDFpMHN0eTllYWIxajIzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZjbm1lc3Fzc2V0M244M2N3YXUxdzJoM2hqZW5pMXo3Nnlxd3hjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" 
 -->
 
 
