@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Header](./github-header-image.png)
-# 💫 About Me:
-<h1 align="center">Hi, I'm Jeric 👋 <br> (Also known as Hiro in games)</h1>
 
 <p align="center">
   <i>"If I have something to do today, I will do it now. To do something else tomorrow."</i>
