@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./github-header-image.png)
+<!-- ![Header](./github-header-image.png) -->
+
+![Header](./Banner/Banner_Night.gif)
 
 <p align="center">
   <i>"If I have something to do today, I will do it now. To do something else tomorrow."</i>
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 
 <hr style="border: none; height: 2px; background-color: #1a2235;" />
 
-<img align="right" height="270" src="./NUX-Octodex-unscreen.gif"/> 
+<img align="right" height="270" src="./NUX-Octodex_BG.gif"/> 
 <!--
 <img align="right" height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZjbm1lc3Fzc2V0M244M2N3YXUxdzJoM2hqZW5pMXo3Nnlxd3hjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" 
 -->
