@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <hr style="border: none; height: 2px; background-color: #1a2235;" />
 
-<img align="right" height="270" src="./daftpunktocat-thomas.gif"/> 
+<img align="right" height="270" src="./NUX_Octodex.gif"/> 
 <!--
 <img align="right" height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZjbm1lc3Fzc2V0M244M2N3YXUxdzJoM2hqZW5pMXo3Nnlxd3hjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" 
 -->
