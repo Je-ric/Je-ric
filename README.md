@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Hi+there!+I'm+Je-ric+%F0%9F%91%8B;BSIT+Student+%7C+Web+Developer;Passionate+about+clean+code+%26+UI/UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&color=F97316&lines=Hi+there!+I'm+Je-ric+%F0%9F%91%8B;BSIT+Student+%7C+Web+Developer;PPPPassionate+about+clean+code+%26+UI%2FUX" alt="Typing SVG" />
 </h3>
 
 ---
