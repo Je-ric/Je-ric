@@ -117,4 +117,4 @@ Here are some ideas to get you started:
 </picture>
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
