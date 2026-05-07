@@ -49,10 +49,13 @@
 
 ## 🚀 What I'm Currently Working On
 
-- 🧩 **ToolGrid** — A growing collection of browser-based developer tools (Vue 3 + Tailwind)
-- 🎮 **GameZone** — Interactive mini-games with responsive layouts and modals (Vue 3)
-- 🎨 **StyleGen** — Visual CSS generators for borders, gradients, shadows, and more (Vue 3)
-- 📋 **CSMS** — Course Syllabus Management System for CLSU (Laravel + Livewire)
+- 🌍 **Youmanitarian International** — Humanitarian platform with volunteer management, programs, donations, and real-time chat (Laravel + Livewire + Vue 3)
+- 🎨 **StyleGen** — 15 visual CSS generators: gradients, shadows, flexbox, grid, glassmorphism, and more (Vue 3 + Vite)
+- 🎮 **GameZone** — 8 interactive browser games with score tracking and modals (Vue 3 + Vite)
+- 🧩 **ToolGrid** — 16 browser-based developer tools: converters, generators, calculators (Vue 3 + Vite)
+- 📋 **CSMS** — Course Syllabus Management System for CLSU with role-based access and a syllabus wizard (Laravel + Livewire)
+- ⛪ **TRGC Attendance** — Church attendance tracking with family management, Livewire check-in, and birthday reminders (Laravel + Livewire)
+- 🌐 **TRGC Website** — Informational React website for The Risen Generation Church with 11 pages, countdown timer, merch gallery, and Google Maps embed (React + Tailwind)
 
 ---
 
@@ -60,11 +63,13 @@
 
 | Type | Examples |
 |---|---|
-| 🧩 Web tools & generators | ToolGrid, StyleGen |
+| 🌍 Full-stack platforms | Youmanitarian International |
+| 📋 Academic systems | CSMS |
+| ⛪ Church systems | TRGC Attendance |
+| 🎨 CSS tools & generators | StyleGen |
+| 🧩 Web tools & utilities | ToolGrid |
 | 🎮 Mini-games & interactive UI | GameZone |
-| 📊 CRUD & academic systems | CSMS, TRGC Attendance |
-| 🌐 Informational websites | TRGC Church Website |
-| 🎨 UI/UX experiments | Frontend clones, landing pages |
+| 🌐 Informational websites | TRGC Website |
 
 ---
 
@@ -73,60 +78,77 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🧩 ToolGrid</h3>
-      <p>26+ browser-based developer tools — text analyzers, converters, generators, and more. No installs, no sign-ups.</p>
+      <h3>🌍 Youmanitarian International</h3>
+      <p>A full-stack humanitarian platform — volunteer applications & approvals, program management, task assignments, attendance tracking, donations, membership payments, real-time program chat, content workflow, and role-based notifications.</p>
       <p>
+        <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
-      <h3>🎮 GameZone</h3>
-      <p>8 interactive browser games — Tic Tac Toe, Connect Four, Word Scramble, Emoji Catcher, and more.</p>
+      <h3>📋 CSMS</h3>
+      <p>Course Syllabus Management System for Central Luzon State University — OTP email verification, admin approval workflow, role-based access (Admin, Dean, Chair, Faculty), a multi-step syllabus wizard, academic calendar integration, and audit logs.</p>
       <p>
-        <img src="https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Alpine.js-white?style=flat-square&logo=alpinedotjs&logoColor=8BC0D0"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🎨 StyleGen</h3>
-      <p>Visual CSS generators for borders, gradients, shadows, filters, border-radius, transforms, and more.</p>
+      <p>15 visual CSS generators — Color Picker, Gradient, Border, Shadow, Filter, Text Decoration, Border Radius, Transform, Flexbox, Grid, Spacing/Box Model, Typography, Glassmorphism, Scrollbar Styler, and Cursor Generator. Live preview + one-click copy.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
-      <h3>📋 CSMS</h3>
-      <p>Course Syllabus Management System for CLSU — role-based access, OTP verification, syllabus wizard, and audit logs.</p>
+      <h3>🧩 ToolGrid</h3>
+      <p>16 browser-based developer tools — Compass, Password Generator, Text Analyzer, Roman Numerals, Case Converter, Currency Converter, Measure Converter, LED Binary Clock, Base Converter, Logic Gate Simulator, Dummy Data Generator, QR Code Generator, Age Calculator, JSON↔CSV, BMI Calculator, and Pomodoro Timer.</p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>⛪ TRGC Website</h3>
-      <p>Informational website for The Risen Generation Church — leadership, ministries, programs, and giving info.</p>
+      <h3>🎮 GameZone</h3>
+      <p>8 interactive browser games — Word Scramble, Coin Flip, Color Match, Connect Four, Emoji Catcher, Guess the Number, Rock Paper Scissors, and Tic Tac Toe. All with score tracking, game history, and responsive modals.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
-      <h3>📅 TRGC Attendance</h3>
-      <p>Church attendance tracking system built with Laravel — member management, session records, and reports.</p>
+      <h3>⛪ TRGC Attendance</h3>
+      <p>Church attendance tracking system for The Risen Generation Church — family & people management, Livewire-powered check-in, attendance sessions, birthday reminders, and attendance summaries. Uses SQLite for easy local deployment.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3>🌐 TRGC Website</h3>
+      <p>Informational website for The Risen Generation Church — 11 pages covering Home, About, Leadership, Ministries, Give, Connect, Know God, Baptism, Plan a Visit, Sermons, and Prayer Request. Features a live Sunday service countdown, merch gallery with lightbox, scroll-glass navbar, and an embedded Google Maps location.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -156,6 +178,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🧰 Tools & Design
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
