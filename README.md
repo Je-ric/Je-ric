@@ -10,7 +10,7 @@
 
 <p align="center">
   I'm an IT graduate and an <strong>IT Systems Developer at Central Luzon State University</strong>, working across the full stack.<br/>
-  I build academic systems and personal projects, from everyday web tools to browser games, using Laravel, Vue, and Tailwind.
+  I build academic systems and personal projects, from everyday web tools to browser games, using Laravel, Blade, and Tailwind.
 </p>
 
 ---
